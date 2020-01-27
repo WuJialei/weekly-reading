@@ -4,6 +4,8 @@
 
 
 **2020年1月**
+- [20200127周](https://github.com/WuJialei/weekly-reading/blob/master/20200127.md)
+
 - [20200120周](https://github.com/WuJialei/weekly-reading/blob/master/20200120.md)
 
 - [20200113周](https://github.com/WuJialei/weekly-reading/blob/master/20200113.md)
