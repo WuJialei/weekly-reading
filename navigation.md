@@ -3,6 +3,8 @@
 ---
 
 **2020年3月**
+- [20200309周](https://github.com/WuJialei/weekly-reading/blob/master/20200309.md)
+
 - [20200302周](https://github.com/WuJialei/weekly-reading/blob/master/20200302.md)
 
 
