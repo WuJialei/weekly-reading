@@ -1,6 +1,12 @@
 # 一周阅读导航
 
 ---
+
+**2020年6月**
+
+- [20200601周](https://github.com/WuJialei/weekly-reading/blob/master/20200601.md)
+
+
 **2020年5月**
 - [20200525周](https://github.com/WuJialei/weekly-reading/blob/master/20200525.md)
 
