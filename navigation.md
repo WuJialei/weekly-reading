@@ -4,6 +4,8 @@
 
 **2020年6月**
 
+- [20200608周](https://github.com/WuJialei/weekly-reading/blob/master/20200608.md)
+
 - [20200601周](https://github.com/WuJialei/weekly-reading/blob/master/20200601.md)
 
 
